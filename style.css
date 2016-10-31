@@ -1,0 +1,53 @@
+body { 
+	font-family: arial;
+	background-image: url("jpg/bg1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+ }
+#container {
+	margin:0 auto;
+	width: 1000px;
+	background-color: rgba(217, 217, 217, 0.8);
+	
+}
+#title { 
+	margin:0 auto;
+ 	width: 600px;
+ 	height: 50px;
+ 	position: relative;
+
+ }
+
+#ingredienten {
+	margin:0 auto;
+ 	width: 500px;
+ 	height: 180px;
+ 	position: relative;
+ 	float: right;
+ 	font-size: large;
+ 	margin-top: 55px;
+ }
+
+#foto1 { 
+	width: 500px;
+	position: relative;
+	float: left;
+
+ }
+#roerbak {
+	width: 95%;
+	margin-top: -5px;
+}
+#stappen {
+	margin:0 auto;
+	position: relative;
+	background-color: rgba(255, 255, 255, 0.6);
+	margin-top: 410px;
+	clear: both;
+	padding-top: 5px;
+}
+ol li {
+	margin-top: 10px;
+}
